@@ -1,3 +1,3 @@
 # Mi primer proyecto
 
-##Esto es un subtítulo
+Agregando comenarios para conocer el funionamiento de git 
